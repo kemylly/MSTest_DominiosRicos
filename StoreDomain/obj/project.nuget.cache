@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lEJYYXQCQaljXICV4Wgm4AMKW4XRpafNEXt38Or7fypvFbAJ+GQH9D5znzvG2D+IKpwCWwIyg10UtLdStsUHmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KYCS\\OneDrive - GFT Technologies SE\\Documents\\estudo_tdd\\StoreDomain\\StoreDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KYCS\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\KYCS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KYCS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

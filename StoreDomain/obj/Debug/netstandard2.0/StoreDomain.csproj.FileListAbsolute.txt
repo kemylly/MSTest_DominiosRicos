@@ -1,0 +1,9 @@
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_tdd\StoreDomain\bin\Debug\netstandard2.0\StoreDomain.deps.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_tdd\StoreDomain\bin\Debug\netstandard2.0\StoreDomain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_tdd\StoreDomain\bin\Debug\netstandard2.0\StoreDomain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_tdd\StoreDomain\obj\Debug\netstandard2.0\StoreDomain.csprojAssemblyReference.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_tdd\StoreDomain\obj\Debug\netstandard2.0\StoreDomain.AssemblyInfoInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_tdd\StoreDomain\obj\Debug\netstandard2.0\StoreDomain.AssemblyInfo.cs
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_tdd\StoreDomain\obj\Debug\netstandard2.0\StoreDomain.csproj.CoreCompileInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_tdd\StoreDomain\obj\Debug\netstandard2.0\StoreDomain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_tdd\StoreDomain\obj\Debug\netstandard2.0\StoreDomain.pdb
